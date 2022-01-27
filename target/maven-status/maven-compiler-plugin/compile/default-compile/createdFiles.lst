@@ -1,0 +1,4 @@
+com\airhacks\ping\boundary\PingResource.class
+com\airhacks\beans\HelloWorld.class
+com\airhacks\servlets\HomePageServlet.class
+com\airhacks\JAXRSConfiguration.class
